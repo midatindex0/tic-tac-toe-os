@@ -1,0 +1,1 @@
+void take_bind(int bindCode);
